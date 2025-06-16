@@ -2,8 +2,8 @@
 
 Code for image analysis using NIS-Elements NIS.ai software and published in: 
 
-MEIOC prevents continued mitotic cycling and promotes meiotic entry during mouse oogenesis
-Esther G. Ushuhuda, Jenniluyn T. Nguyen, Natalie G. Pfaltzgraff, Matthew Kofron, Maria M. Mikedis
+MEIOC prevents continued mitotic cycling and promotes meiotic entry during mouse oogenesis.
+Esther G. Ushuhuda, Jenniluyn T. Nguyen, Natalie G. Pfaltzgraff, Matthew Kofron, Maria M. Mikedis.
 bioRxiv 2025.06.12.659330; doi: https://doi.org/10.1101/2025.06.12.659330
 
 See publication for methods. 
