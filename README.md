@@ -1,6 +1,6 @@
 # 2025_fetal_oocytes_image_analysis
 
-Code for image analysis published in: 
+Code for image analysis using NIS-Elements NIS.ai software and published in: 
 
 MEIOC prevents continued mitotic cycling and promotes meiotic entry during mouse oogenesis
 Esther G. Ushuhuda, Jenniluyn T. Nguyen, Natalie G. Pfaltzgraff, Matthew Kofron, Maria M. Mikedis
