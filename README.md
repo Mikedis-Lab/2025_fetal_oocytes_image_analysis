@@ -12,4 +12,4 @@ Samples stained for DDX4, EdU, and CCNA2 were analyzed by one of three CCNA2 pip
 
 Samples stained for DDX4, EdU, and REC8 were analyzed by one of three REC8 pipelines.The pipelines are identical in analysis and only differ in the channel names, to match the channel names extracted from the raw images.  EdU counts were included in publication above, but REC8 analysis was not. 
 
-Raw images and annotations are available on BioImage Archive. 
+Raw images and annotations are available on BioImage Archive, accession number S-BIAD2080. 
